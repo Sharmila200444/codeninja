@@ -1,3 +1,6 @@
+// Find single element
+
+
 import java.util.*;
 public class Solution {
     public static int getSingleElement(int []arr){
